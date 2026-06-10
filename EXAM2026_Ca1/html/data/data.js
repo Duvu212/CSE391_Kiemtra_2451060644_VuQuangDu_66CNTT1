@@ -1,4 +1,4 @@
-const data = [
+const products = [
     {
         id:1,
         name: "Điện thoại ip 15",
